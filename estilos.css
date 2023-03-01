@@ -1,0 +1,19 @@
+echo "# Buyo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sevp23/Buyo.git
+git push -u origin main
+*{
+    box-sizing: border-box;
+}
+.header{
+    
+}
+.datalist{
+    background-color:pink;
+}
+.menu{}
+.mail{}
+.footer{}
